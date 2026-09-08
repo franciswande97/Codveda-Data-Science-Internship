@@ -74,11 +74,11 @@ Task-2-Data-Cleaning/
 
 The primary output of this project is a cleaned housing dataset:
 
-- data/cleaned_house_data.csv
+- data/ `cleaned_house_data.csv`
 
 The complete data cleaning and preprocessing workflow can be found in:
 
-- notebook/data_cleaning.ipynb
+- notebook/ `data_cleaning.ipynb`
 
 ## Key Learning Outcomes
 
